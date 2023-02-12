@@ -291,7 +291,7 @@ public interface HttpHeaders {
     String SERVER = "Server";
 
     /**
-     * RFC 6265 (HTTP/1.0) Section 4.1， RFC 2109 (Http/1.1) Section 4.2.2
+     * RFC 6265 (HTTP/1.0) Section 4.1, RFC 2109 (Http/1.1) Section 4.2.2
      */
     String SET_COOKIE = "Set-Cookie";
 
