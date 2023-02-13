@@ -1,5 +1,5 @@
 ext {
-    publishScript = 'https://raw.githubusercontent.com/yanzhenjie/GradleToMaven/master/publish.gradle'
+    publishScript = 'https://raw.githubusercontent.com/pppscn/GradleToMaven/master/publish.gradle'
 
     plugin = [
         javaLibrary   : 'java-library',
